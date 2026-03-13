@@ -2,10 +2,11 @@ streamlit
 langchain
 langchain-community
 langchain-core
-langchain-openai
 langchain-groq
 chromadb
+sentence-transformers
+huggingface-hub
 pypdf
 python-dotenv
-tiktoken
 youtube-search-python
+httpx==0.27.0
