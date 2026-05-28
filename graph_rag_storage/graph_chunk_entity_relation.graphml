@@ -1,0 +1,487 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="truncate" attr.type="string" />
+  <key id="d12" for="edge" attr.name="created_at" attr.type="long" />
+  <key id="d11" for="edge" attr.name="file_path" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d8" for="edge" attr.name="description" attr.type="string" />
+  <key id="d7" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d6" for="node" attr.name="truncate" attr.type="string" />
+  <key id="d5" for="node" attr.name="created_at" attr.type="long" />
+  <key id="d4" for="node" attr.name="file_path" attr.type="string" />
+  <key id="d3" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d2" for="node" attr.name="description" attr.type="string" />
+  <key id="d1" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_id" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Machine Learning">
+      <data key="d0">Machine Learning</data>
+      <data key="d1">concept</data>
+      <data key="d2">Machine Learning is a subset of artificial intelligence that enables computers to learn from data without being explicitly programmed.</data>
+      <data key="d3">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1778230759</data>
+      <data key="d6" />
+    </node>
+    <node id="Artificial Intelligence">
+      <data key="d0">Artificial Intelligence</data>
+      <data key="d1">concept</data>
+      <data key="d2">Artificial Intelligence is the broader field that encompasses Machine Learning.</data>
+      <data key="d3">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1778230759</data>
+      <data key="d6" />
+    </node>
+    <node id="Recommendation Systems">
+      <data key="d0">Recommendation Systems</data>
+      <data key="d1">application</data>
+      <data key="d2">Recommendation Systems utilize Machine Learning to suggest products or services based on user behavior and preferences.</data>
+      <data key="d3">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1778230759</data>
+      <data key="d6" />
+    </node>
+    <node id="Speech Recognition">
+      <data key="d0">Speech Recognition</data>
+      <data key="d1">application</data>
+      <data key="d2">Speech Recognition is an application of Machine Learning that enables computers to recognize and transcribe spoken language.</data>
+      <data key="d3">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1778230759</data>
+      <data key="d6" />
+    </node>
+    <node id="Fraud Detection">
+      <data key="d0">Fraud Detection</data>
+      <data key="d1">application</data>
+      <data key="d2">Fraud Detection is an application of Machine Learning that identifies and prevents fraudulent activities.</data>
+      <data key="d3">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1778230759</data>
+      <data key="d6" />
+    </node>
+    <node id="Self-Driving Cars">
+      <data key="d0">Self-Driving Cars</data>
+      <data key="d1">application</data>
+      <data key="d2">Self-Driving Cars utilize Machine Learning to navigate and make decisions in real-time.</data>
+      <data key="d3">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1778230759</data>
+      <data key="d6" />
+    </node>
+    <node id="Supervised Learning">
+      <data key="d0">Supervised Learning</data>
+      <data key="d1">concept</data>
+      <data key="d2">Supervised Learning is a type of Machine Learning where the model learns from labeled data.</data>
+      <data key="d3">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1778230759</data>
+      <data key="d6" />
+    </node>
+    <node id="Unsupervised Learning">
+      <data key="d0">Unsupervised Learning</data>
+      <data key="d1">concept</data>
+      <data key="d2">Unsupervised Learning is a type of Machine Learning where the model identifies patterns in unlabeled data.</data>
+      <data key="d3">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1778230759</data>
+      <data key="d6" />
+    </node>
+    <node id="Reinforcement Learning">
+      <data key="d0">Reinforcement Learning</data>
+      <data key="d1">concept</data>
+      <data key="d2">Reinforcement Learning is a type of Machine Learning where the model learns by interacting with an environment.</data>
+      <data key="d3">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1778230759</data>
+      <data key="d6" />
+    </node>
+    <node id="Dataset">
+      <data key="d0">Dataset</data>
+      <data key="d1">concept</data>
+      <data key="d2">A Dataset is a collection of data used to train and test models.</data>
+      <data key="d3">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1778230759</data>
+      <data key="d6" />
+    </node>
+    <node id="Features">
+      <data key="d0">Features</data>
+      <data key="d1">concept</data>
+      <data key="d2">Features are individual measurable properties of data.</data>
+      <data key="d3">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1778230759</data>
+      <data key="d6" />
+    </node>
+    <node id="Model">
+      <data key="d0">Model</data>
+      <data key="d1">concept</data>
+      <data key="d2">A Model is a mathematical representation learned from data.</data>
+      <data key="d3">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1778230759</data>
+      <data key="d6" />
+    </node>
+    <node id="Training">
+      <data key="d0">Training</data>
+      <data key="d1">concept</data>
+      <data key="d2">Training is the process of teaching a model using data.</data>
+      <data key="d3">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1778230759</data>
+      <data key="d6" />
+    </node>
+    <node id="Testing">
+      <data key="d0">Testing</data>
+      <data key="d1">concept</data>
+      <data key="d2">Testing is the process of evaluating a model's performance on unseen data.</data>
+      <data key="d3">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1778230759</data>
+      <data key="d6" />
+    </node>
+    <node id="Linear Regression">
+      <data key="d0">Linear Regression</data>
+      <data key="d1">algorithm</data>
+      <data key="d2">Linear Regression is a common algorithm used in Machine Learning.</data>
+      <data key="d3">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1778230759</data>
+      <data key="d6" />
+    </node>
+    <node id="Decision Trees">
+      <data key="d0">Decision Trees</data>
+      <data key="d1">algorithm</data>
+      <data key="d2">Decision Trees are a common algorithm used in Machine Learning.</data>
+      <data key="d3">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1778230759</data>
+      <data key="d6" />
+    </node>
+    <node id="Support Vector Machines">
+      <data key="d0">Support Vector Machines</data>
+      <data key="d1">algorithm</data>
+      <data key="d2">Support Vector Machines are a common algorithm used in Machine Learning.</data>
+      <data key="d3">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1778230760</data>
+      <data key="d6" />
+    </node>
+    <node id="Neural Networks">
+      <data key="d0">Neural Networks</data>
+      <data key="d1">algorithm</data>
+      <data key="d2">Neural Networks are a common algorithm used in Machine Learning.</data>
+      <data key="d3">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1778230760</data>
+      <data key="d6" />
+    </node>
+    <node id="Overfitting">
+      <data key="d0">Overfitting</data>
+      <data key="d1">challenge</data>
+      <data key="d2">Overfitting occurs when a model learns too much detail from training data.</data>
+      <data key="d3">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1778230760</data>
+      <data key="d6" />
+    </node>
+    <node id="Underfitting">
+      <data key="d0">Underfitting</data>
+      <data key="d1">challenge</data>
+      <data key="d2">Underfitting occurs when a model is too simple to capture patterns.</data>
+      <data key="d3">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1778230760</data>
+      <data key="d6" />
+    </node>
+    <node id="Healthcare">
+      <data key="d0">Healthcare</data>
+      <data key="d1">industry</data>
+      <data key="d2">Healthcare is an industry that utilizes Machine Learning for disease prediction and medical imaging.</data>
+      <data key="d3">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1778230760</data>
+      <data key="d6" />
+    </node>
+    <node id="Finance">
+      <data key="d0">Finance</data>
+      <data key="d1">industry</data>
+      <data key="d2">Finance is an industry that utilizes Machine Learning for fraud detection and risk assessment.</data>
+      <data key="d3">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1778230760</data>
+      <data key="d6" />
+    </node>
+    <node id="E-commerce">
+      <data key="d0">E-commerce</data>
+      <data key="d1">industry</data>
+      <data key="d2">E-commerce is an industry that utilizes Machine Learning for product recommendations and customer segmentation.</data>
+      <data key="d3">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1778230760</data>
+      <data key="d6" />
+    </node>
+    <node id="Transportation">
+      <data key="d0">Transportation</data>
+      <data key="d1">industry</data>
+      <data key="d2">Transportation is an industry that utilizes Machine Learning for autonomous vehicles and traffic prediction.</data>
+      <data key="d3">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1778230760</data>
+      <data key="d6" />
+    </node>
+    <node id="Deep Learning">
+      <data key="d0">Deep Learning</data>
+      <data key="d1">concept</data>
+      <data key="d2">Deep Learning is a subfield of Machine Learning that involves the use of neural networks.</data>
+      <data key="d3">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1778230760</data>
+      <data key="d6" />
+    </node>
+    <node id="Natural Language Processing">
+      <data key="d0">Natural Language Processing</data>
+      <data key="d1">concept</data>
+      <data key="d2">Natural Language Processing is a subfield of Machine Learning that involves the use of algorithms to process and understand human language.</data>
+      <data key="d3">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1778230760</data>
+      <data key="d6" />
+    </node>
+    <node id="Generative AI">
+      <data key="d0">Generative AI</data>
+      <data key="d1">concept</data>
+      <data key="d2">Generative AI is a subfield of Machine Learning that involves the use of algorithms to generate new data.</data>
+      <data key="d3">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1778230760</data>
+      <data key="d6" />
+    </node>
+    <node id="Environment">
+      <data key="d0">Environment</data>
+      <data key="d3">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d2">Reinforcement Learning learns by interacting with an Environment.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1778230760</data>
+      <data key="d6" />
+    </node>
+    <edge source="Machine Learning" target="Artificial Intelligence">
+      <data key="d7">1.0</data>
+      <data key="d8">Machine Learning is a subset of Artificial Intelligence.</data>
+      <data key="d9">relationship,subset</data>
+      <data key="d10">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1778230760</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Machine Learning" target="Recommendation Systems">
+      <data key="d7">1.0</data>
+      <data key="d8">Machine Learning is used in Recommendation Systems to suggest products or services.</data>
+      <data key="d9">application,use case</data>
+      <data key="d10">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1778230760</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Machine Learning" target="Speech Recognition">
+      <data key="d7">1.0</data>
+      <data key="d8">Machine Learning is used in Speech Recognition to recognize and transcribe spoken language.</data>
+      <data key="d9">application,use case</data>
+      <data key="d10">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1778230761</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Machine Learning" target="Fraud Detection">
+      <data key="d7">1.0</data>
+      <data key="d8">Machine Learning is used in Fraud Detection to identify and prevent fraudulent activities.</data>
+      <data key="d9">application,use case</data>
+      <data key="d10">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1778230761</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Machine Learning" target="Self-Driving Cars">
+      <data key="d7">1.0</data>
+      <data key="d8">Machine Learning is used in Self-Driving Cars to navigate and make decisions in real-time.</data>
+      <data key="d9">application,use case</data>
+      <data key="d10">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1778230761</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Machine Learning" target="Healthcare">
+      <data key="d7">1.0</data>
+      <data key="d8">Machine Learning is used in Healthcare for disease prediction and medical imaging.</data>
+      <data key="d9">application,industry</data>
+      <data key="d10">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1778230761</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Machine Learning" target="Finance">
+      <data key="d7">1.0</data>
+      <data key="d8">Machine Learning is used in Finance for fraud detection and risk assessment.</data>
+      <data key="d9">application,industry</data>
+      <data key="d10">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1778230761</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Machine Learning" target="E-commerce">
+      <data key="d7">1.0</data>
+      <data key="d8">Machine Learning is used in E-commerce for product recommendations and customer segmentation.</data>
+      <data key="d9">application,industry</data>
+      <data key="d10">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1778230761</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Machine Learning" target="Transportation">
+      <data key="d7">1.0</data>
+      <data key="d8">Machine Learning is used in Transportation for autonomous vehicles and traffic prediction.</data>
+      <data key="d9">application,industry</data>
+      <data key="d10">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1778230761</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Machine Learning" target="Deep Learning">
+      <data key="d7">1.0</data>
+      <data key="d8">Deep Learning is a subfield of Machine Learning.</data>
+      <data key="d9">relationship,subfield</data>
+      <data key="d10">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1778230761</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Machine Learning" target="Natural Language Processing">
+      <data key="d7">1.0</data>
+      <data key="d8">Natural Language Processing is a subfield of Machine Learning.</data>
+      <data key="d9">relationship,subfield</data>
+      <data key="d10">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1778230762</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Machine Learning" target="Generative AI">
+      <data key="d7">1.0</data>
+      <data key="d8">Generative AI is a subfield of Machine Learning.</data>
+      <data key="d9">relationship,subfield</data>
+      <data key="d10">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1778230762</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Supervised Learning" target="Dataset">
+      <data key="d7">1.0</data>
+      <data key="d8">Supervised Learning uses labeled data from a Dataset.</data>
+      <data key="d9">relationship,type</data>
+      <data key="d10">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1778230760</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Unsupervised Learning" target="Dataset">
+      <data key="d7">1.0</data>
+      <data key="d8">Unsupervised Learning uses unlabeled data from a Dataset.</data>
+      <data key="d9">relationship,type</data>
+      <data key="d10">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1778230760</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Reinforcement Learning" target="Environment">
+      <data key="d7">1.0</data>
+      <data key="d8">Reinforcement Learning learns by interacting with an Environment.</data>
+      <data key="d9">interaction,relationship</data>
+      <data key="d10">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1778230760</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Dataset" target="Features">
+      <data key="d7">1.0</data>
+      <data key="d8">A Dataset consists of Features.</data>
+      <data key="d9">composition,relationship</data>
+      <data key="d10">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1778230761</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Model" target="Training">
+      <data key="d7">1.0</data>
+      <data key="d8">A Model is trained using data from a Dataset.</data>
+      <data key="d9">process,relationship</data>
+      <data key="d10">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1778230760</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Model" target="Testing">
+      <data key="d7">1.0</data>
+      <data key="d8">A Model is tested on unseen data.</data>
+      <data key="d9">process,relationship</data>
+      <data key="d10">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1778230761</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Model" target="Linear Regression">
+      <data key="d7">1.0</data>
+      <data key="d8">Linear Regression is an algorithm used to train a Model.</data>
+      <data key="d9">algorithm,relationship</data>
+      <data key="d10">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1778230761</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Model" target="Decision Trees">
+      <data key="d7">1.0</data>
+      <data key="d8">Decision Trees are an algorithm used to train a Model.</data>
+      <data key="d9">algorithm,relationship</data>
+      <data key="d10">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1778230761</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Model" target="Support Vector Machines">
+      <data key="d7">1.0</data>
+      <data key="d8">Support Vector Machines are an algorithm used to train a Model.</data>
+      <data key="d9">algorithm,relationship</data>
+      <data key="d10">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1778230761</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Model" target="Neural Networks">
+      <data key="d7">1.0</data>
+      <data key="d8">Neural Networks are an algorithm used to train a Model.</data>
+      <data key="d9">algorithm,relationship</data>
+      <data key="d10">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1778230761</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Model" target="Overfitting">
+      <data key="d7">1.0</data>
+      <data key="d8">Overfitting is a challenge that can occur when training a Model.</data>
+      <data key="d9">challenge,relationship</data>
+      <data key="d10">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1778230761</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Model" target="Underfitting">
+      <data key="d7">1.0</data>
+      <data key="d8">Underfitting is a challenge that can occur when training a Model.</data>
+      <data key="d9">challenge,relationship</data>
+      <data key="d10">chunk-9652960276f38ad06d11cd7e61469178</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1778230761</data>
+      <data key="d13" />
+    </edge>
+  </graph>
+</graphml>

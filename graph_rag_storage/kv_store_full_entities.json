@@ -1,0 +1,38 @@
+{
+  "doc-9652960276f38ad06d11cd7e61469178": {
+    "entity_names": [
+      "Generative AI",
+      "Neural Networks",
+      "Healthcare",
+      "Decision Trees",
+      "Fraud Detection",
+      "Environment",
+      "Speech Recognition",
+      "Linear Regression",
+      "Finance",
+      "Unsupervised Learning",
+      "Underfitting",
+      "Supervised Learning",
+      "Support Vector Machines",
+      "Testing",
+      "Recommendation Systems",
+      "Overfitting",
+      "E-commerce",
+      "Natural Language Processing",
+      "Artificial Intelligence",
+      "Dataset",
+      "Training",
+      "Deep Learning",
+      "Machine Learning",
+      "Features",
+      "Model",
+      "Reinforcement Learning",
+      "Self-Driving Cars",
+      "Transportation"
+    ],
+    "count": 28,
+    "create_time": 1778230762,
+    "update_time": 1778230762,
+    "_id": "doc-9652960276f38ad06d11cd7e61469178"
+  }
+}

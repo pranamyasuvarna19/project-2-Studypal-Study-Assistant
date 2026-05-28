@@ -1,0 +1,20 @@
+[server]
+maxUploadSize = 500
+maxMessageSize = 500
+enableCORS = false
+enableXsrfProtection = false
+headless = false
+fileWatcherType = "none"
+scriptRunTimeoutSeconds = 600
+
+[browser]
+gatherUsageStats = false
+serverAddress = "localhost"
+serverPort = 8501
+
+[runner]
+fastReruns = false
+enforceSerializableSessionState = false
+
+[theme]
+base = "dark"

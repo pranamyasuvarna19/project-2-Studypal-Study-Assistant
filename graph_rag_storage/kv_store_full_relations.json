@@ -1,0 +1,106 @@
+{
+  "doc-9652960276f38ad06d11cd7e61469178": {
+    "relation_pairs": [
+      [
+        "Healthcare",
+        "Machine Learning"
+      ],
+      [
+        "Machine Learning",
+        "Recommendation Systems"
+      ],
+      [
+        "Model",
+        "Neural Networks"
+      ],
+      [
+        "E-commerce",
+        "Machine Learning"
+      ],
+      [
+        "Model",
+        "Underfitting"
+      ],
+      [
+        "Environment",
+        "Reinforcement Learning"
+      ],
+      [
+        "Dataset",
+        "Unsupervised Learning"
+      ],
+      [
+        "Machine Learning",
+        "Transportation"
+      ],
+      [
+        "Machine Learning",
+        "Natural Language Processing"
+      ],
+      [
+        "Machine Learning",
+        "Self-Driving Cars"
+      ],
+      [
+        "Artificial Intelligence",
+        "Machine Learning"
+      ],
+      [
+        "Generative AI",
+        "Machine Learning"
+      ],
+      [
+        "Dataset",
+        "Supervised Learning"
+      ],
+      [
+        "Model",
+        "Support Vector Machines"
+      ],
+      [
+        "Model",
+        "Training"
+      ],
+      [
+        "Decision Trees",
+        "Model"
+      ],
+      [
+        "Finance",
+        "Machine Learning"
+      ],
+      [
+        "Model",
+        "Overfitting"
+      ],
+      [
+        "Linear Regression",
+        "Model"
+      ],
+      [
+        "Deep Learning",
+        "Machine Learning"
+      ],
+      [
+        "Fraud Detection",
+        "Machine Learning"
+      ],
+      [
+        "Model",
+        "Testing"
+      ],
+      [
+        "Machine Learning",
+        "Speech Recognition"
+      ],
+      [
+        "Dataset",
+        "Features"
+      ]
+    ],
+    "count": 24,
+    "create_time": 1778230762,
+    "update_time": 1778230762,
+    "_id": "doc-9652960276f38ad06d11cd7e61469178"
+  }
+}
